@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../RealEstate-web-starterpack" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../front-end-developer-capstone-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../modern_react_app" vcs="Git" />
   </component>
 </project>
